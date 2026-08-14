@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T01:06:52Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110164
+            "stars": 110184
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2024-06-29T11:46:59Z",
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21546
+            "stars": 21545
           }
         },
         {
@@ -452,7 +452,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T23:54:18Z",
+            "last_commit": "2026-08-14T01:57:58Z",
             "owner": "Quramy",
             "repo": "ts-graphql-plugin",
             "stars": 759
@@ -531,7 +531,7 @@
             "last_commit": "2026-07-31T14:14:07Z",
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6154
+            "stars": 6155
           }
         },
         {
@@ -542,10 +542,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T09:48:51Z",
+            "last_commit": "2026-08-14T09:26:16Z",
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4321
+            "stars": 4327
           }
         },
         {
@@ -587,7 +587,7 @@
             "last_commit": "2023-06-23T09:38:51Z",
             "owner": "cevek",
             "repo": "ttypescript",
-            "stars": 1535
+            "stars": 1534
           }
         },
         {
@@ -637,7 +637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:49:02.707Z",
+    "last_updated": "2026-08-14T09:45:15.705Z",
     "original_repository": "itsdouges/awesome-typescript-ecosystem",
     "original_repository_sha": "f2d2984e0b917631dfae92f1fa8d456fd557af71",
     "enhanced_repository": "enhansome/enhansome-typescript-ecosystem",
