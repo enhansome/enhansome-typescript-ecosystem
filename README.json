@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T19:07:48Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110173
+            "stars": 110178
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2024-06-29T11:46:59Z",
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21550
+            "stars": 21548
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-11T21:10:13Z",
             "owner": "AviVahl",
             "repo": "ts-tools",
-            "stars": 171
+            "stars": 170
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2023-01-16T10:01:50Z",
             "owner": "longlho",
             "repo": "ts-transform-css-modules",
-            "stars": 87
+            "stars": 86
           }
         },
         {
@@ -455,7 +455,7 @@
             "last_commit": "2026-08-14T01:57:58Z",
             "owner": "Quramy",
             "repo": "ts-graphql-plugin",
-            "stars": 759
+            "stars": 757
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2026-07-31T14:14:07Z",
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6155
+            "stars": 6156
           }
         },
         {
@@ -542,10 +542,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T07:36:29Z",
+            "last_commit": "2026-08-17T07:54:49Z",
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4335
+            "stars": 4344
           }
         },
         {
@@ -601,7 +601,7 @@
             "last_commit": "2026-04-06T22:57:35Z",
             "owner": "phenomnomnominal",
             "repo": "tsquery",
-            "stars": 1053
+            "stars": 1054
           }
         },
         {
@@ -637,7 +637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:10:56.220Z",
+    "last_updated": "2026-08-17T09:24:58.261Z",
     "original_repository": "itsdouges/awesome-typescript-ecosystem",
     "original_repository_sha": "f2d2984e0b917631dfae92f1fa8d456fd557af71",
     "enhanced_repository": "enhansome/enhansome-typescript-ecosystem",
