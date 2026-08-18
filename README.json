@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T19:07:48Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110178
+            "stars": 110185
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2024-06-29T11:46:59Z",
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21548
+            "stars": 21547
           }
         },
         {
@@ -511,7 +511,7 @@
             "last_commit": "2026-06-24T13:57:00Z",
             "owner": "ycmjason",
             "repo": "ts-migrating",
-            "stars": 70
+            "stars": 69
           }
         }
       ],
@@ -542,10 +542,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T07:54:49Z",
+            "last_commit": "2026-08-18T09:03:21Z",
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4344
+            "stars": 4346
           }
         },
         {
@@ -573,7 +573,7 @@
             "last_commit": "2026-08-09T03:59:51Z",
             "owner": "vega",
             "repo": "ts-json-schema-generator",
-            "stars": 1714
+            "stars": 1712
           }
         },
         {
@@ -637,7 +637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:24:58.261Z",
+    "last_updated": "2026-08-18T09:16:41.368Z",
     "original_repository": "itsdouges/awesome-typescript-ecosystem",
     "original_repository_sha": "f2d2984e0b917631dfae92f1fa8d456fd557af71",
     "enhanced_repository": "enhansome/enhansome-typescript-ecosystem",

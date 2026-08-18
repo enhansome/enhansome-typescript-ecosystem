@@ -8,8 +8,8 @@
 
 ## Handbooks
 
-* [TypeScript wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 110,178 | 🐛 5,077 | 🌐 TypeScript | 📅 2026-08-14 - The official wiki for TypeScript lang
-* [typescript-book](https://github.com/basarat/typescript-book/) ⭐ 21,548 | 🐛 150 | 🌐 TypeScript | 📅 2024-06-29 - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖
+* [TypeScript wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 110,185 | 🐛 5,069 | 🌐 TypeScript | 📅 2026-08-14 - The official wiki for TypeScript lang
+* [typescript-book](https://github.com/basarat/typescript-book/) ⭐ 21,547 | 🐛 150 | 🌐 TypeScript | 📅 2024-06-29 - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖
 * [TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) ⚠️ Archived - The TypeScript Handbook is a comprehensive guide to the TypeScript language
 * [ts-transformer-handbook](https://github.com/madou/ts-transformer-handbook) ⭐ 1,019 | 🐛 16 | 🌐 TypeScript | 📅 2025-02-14 - 📘 A handbook on how to create transformers for Typescript with real code examples
 
@@ -74,21 +74,21 @@ and more.
 ## Language service plugins
 
 Language service plugins enable rich developer experience warnings, errors, and even intellisense in your IDE.
-Read [how to write your own langauge service plugin here](https://github.com/Microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin) ⭐ 110,178 | 🐛 5,077 | 🌐 TypeScript | 📅 2026-08-14.
+Read [how to write your own langauge service plugin here](https://github.com/Microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin) ⭐ 110,185 | 🐛 5,069 | 🌐 TypeScript | 📅 2026-08-14.
 
 * [typescript-styled-plugin](https://github.com/Microsoft/typescript-styled-plugin) ⚠️ Archived - TypeScript server plugin that adds intellisense to styled component css strings
 * [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) ⭐ 757 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-14 - TypeScript Language Service Plugin for GraphQL developers
 * [ts-mysql-plugin](https://github.com/segmentio/ts-mysql-plugin) ⭐ 319 | 🐛 18 | 🌐 TypeScript | 📅 2026-06-25 - A TypeScript Language Service Plugin that gives superpowers to SQL tagged template literals.
 * [ts-sql-plugin](https://github.com/xialvjun/ts-sql-plugin) ⭐ 193 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-06 -  TypeScript Language Service Plugin for SQL with a tagged template strings SQL builder
 * [tslint-language-service](https://github.com/angelozerr/tslint-language-service/) ⭐ 190 | 🐛 25 | 🌐 TypeScript | 📅 2019-11-06 - TypeScript 2.2.1 plugin for tslint
-* [ts-migrating](https://github.com/ycmjason/ts-migrating/) ⭐ 70 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-24 - an TypeScript LSP plugin that lets you migrate TSconfig
+* [ts-migrating](https://github.com/ycmjason/ts-migrating/) ⭐ 69 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-24 - an TypeScript LSP plugin that lets you migrate TSconfig
 
 ## Tools
 
 * [ts-morph](https://github.com/dsherret/ts-morph) ⭐ 6,156 | 🐛 291 | 🌐 TypeScript | 📅 2026-07-31 -  TypeScript Compiler API wrapper for static analysis and programmatic code changes
-* [fallow](https://github.com/fallow-rs/fallow) ⭐ 4,344 | 🐛 2 | 🌐 Rust | 📅 2026-08-17 - Finds dead code, duplication, circular dependencies, and complexity hotspots in TypeScript codebases
+* [fallow](https://github.com/fallow-rs/fallow) ⭐ 4,346 | 🐛 3 | 🌐 Rust | 📅 2026-08-18 - Finds dead code, duplication, circular dependencies, and complexity hotspots in TypeScript codebases
 * [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) ⭐ 3,267 | 🐛 189 | 🌐 TypeScript | 📅 2026-07-14 - Generate json-schema from your TypeScript sources
-* [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) ⭐ 1,714 | 🐛 129 | 🌐 TypeScript | 📅 2026-08-09 - Generate JSON schema from your TypeScript sources
+* [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) ⭐ 1,712 | 🐛 129 | 🌐 TypeScript | 📅 2026-08-09 - Generate JSON schema from your TypeScript sources
 * [ttypescript](https://github.com/cevek/ttypescript) ⭐ 1,534 | 🐛 23 | 🌐 TypeScript | 📅 2023-06-23 - Over TypeScript tool to use custom transformers in the tsconfig.json
 * [ts-query](https://github.com/phenomnomnominal/tsquery) ⭐ 1,054 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-06 - TypeScript AST query library
 * [ts-creator](https://github.com/HearTao/ts-creator) ⭐ 391 | 🐛 22 | 🌐 TypeScript | 📅 2023-03-06 - A code generator to generate TypeScript code generator from TypeScript code
@@ -96,4 +96,4 @@ Read [how to write your own langauge service plugin here](https://github.com/Mic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
