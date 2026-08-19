@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20929025,
             "language": "TypeScript",
             "last_commit": "2026-08-14T19:07:48Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110185
+            "stars": 110203
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32623292,
             "language": "TypeScript",
             "last_commit": "2024-06-29T11:46:59Z",
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21547
+            "stars": 21549
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 33742985,
             "language": "JavaScript",
             "last_commit": "2020-08-01T19:54:09Z",
             "owner": "microsoft",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230679366,
             "language": "TypeScript",
             "last_commit": "2025-02-14T07:06:22Z",
             "owner": "itsdouges",
@@ -64,368 +68,397 @@
     },
     {
       "description": "Transformers are synonymous with Babel Plugins. They enable transforming code from one to to another, generally used for improving the developer experience, doing performance optimizations, and more.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typescript-is",
+              "description": "generate run-time type-checks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148759661,
+                "language": "TypeScript",
+                "last_commit": "2023-07-17T15:48:19Z",
+                "owner": "woutervh-",
+                "repo": "typescript-is",
+                "stars": 959
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-nameof",
+              "description": "nameof in TypeScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65151513,
+                "language": "TypeScript",
+                "last_commit": "2023-03-23T16:04:22Z",
+                "owner": "dsherret",
+                "repo": "ts-nameof",
+                "stars": 504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@ts-tools/robotrix",
+              "description": "Useful TypeScript transpilation transformers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134467449,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T21:10:13Z",
+                "owner": "AviVahl",
+                "repo": "ts-tools",
+                "stars": 170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-transform-graphql-tag",
+              "description": "Compiles GraphQL tagged template strings using graphql-tag in TypeScript files",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116643001,
+                "language": "TypeScript",
+                "last_commit": "2023-01-03T21:01:19Z",
+                "owner": "firede",
+                "repo": "ts-transform-graphql-tag",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-transform-import-path-rewrite",
+              "description": "TS AST transformer to rewrite import path",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159537896,
+                "language": "TypeScript",
+                "last_commit": "2023-08-07T14:33:25Z",
+                "owner": "dropbox",
+                "repo": "ts-transform-import-path-rewrite",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-transform-css-modules",
+              "description": "Extract css class names from required css module files for TypeScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89756691,
+                "language": "TypeScript",
+                "last_commit": "2023-01-16T10:01:50Z",
+                "owner": "longlho",
+                "repo": "ts-transform-css-modules",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-transform-json-schema",
+              "description": "Generate inline JSON schema from TypeScript types",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150176700,
+                "language": "TypeScript",
+                "last_commit": "2023-01-04T21:42:37Z",
+                "owner": "marionebl",
+                "repo": "ts-transform-json-schema",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-transform-img",
+              "description": "Allow in TS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89810936,
+                "language": "TypeScript",
+                "last_commit": "2023-01-16T10:01:45Z",
+                "owner": "longlho",
+                "repo": "ts-transform-img",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-transform-json",
+              "description": "Inline specific values from a JSON file or the whole JSON blob",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170011528,
+                "language": "TypeScript",
+                "last_commit": "2023-03-06T10:57:47Z",
+                "owner": "longlho",
+                "repo": "ts-transform-json",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-transform-define",
+              "description": "Allows you to create global constants which can be configured at compile time.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257530889,
+                "language": "TypeScript",
+                "last_commit": "2023-01-06T03:55:15Z",
+                "owner": "itsdouges",
+                "repo": "ts-transform-define",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-trim-declarations",
+              "description": "Remove declarations marked with from your exported files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 310130858,
+                "language": "TypeScript",
+                "last_commit": "2020-11-05T10:39:38Z",
+                "owner": "cprecioso",
+                "repo": "ts-trim-declarations",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General transformers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typescript-plugin-styled-components",
+              "description": "TypeScript transformer for improving the debugging experience of styled-components",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94284226,
+                "language": "TypeScript",
+                "last_commit": "2023-06-06T23:22:33Z",
+                "owner": "Igorbek",
+                "repo": "typescript-plugin-styled-components",
+                "stars": 418
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "emotion-ts-plugin",
+              "description": "TypeScript transformer for improving the debugging experience and abilities of emotion",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148123892,
+                "language": "TypeScript",
+                "last_commit": "2023-04-07T09:43:38Z",
+                "owner": "LeetCode-OpenSource",
+                "repo": "emotion-ts-plugin",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-transform-react-constant-elements",
+              "description": "A TypeScript AST Transformer that can speed up reconciliation and reduce garbage collection pressure by hoisting React elements to the highest possible scope",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162339145,
+                "language": "TypeScript",
+                "last_commit": "2023-08-29T21:27:45Z",
+                "owner": "dropbox",
+                "repo": "ts-transform-react-constant-elements",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-hot-ts",
+              "description": "A lightweight, TypeScript-native, Babel-free, plugin-free, implementation of react-hot-loader",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176035921,
+                "language": "TypeScript",
+                "last_commit": "2023-01-07T03:52:25Z",
+                "owner": "elsassph",
+                "repo": "react-hot-ts",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-transform-react-jsx-source",
+              "description": "TypeScript AST Transformer that adds source file and line number to JSX elements",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164952873,
+                "language": "TypeScript",
+                "last_commit": "2023-07-25T22:50:21Z",
+                "owner": "dropbox",
+                "repo": "ts-transform-react-jsx-source",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-transform-hoist-objects-in-props",
+              "description": "A TypeScript custom transformer that hoists object literals and functions that are passed to JSX props.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167689743,
+                "language": "TypeScript",
+                "last_commit": "2025-12-09T12:11:28Z",
+                "owner": "avensia-oss",
+                "repo": "ts-transform-hoist-objects-in-props",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-transform-import-to-lazy-async-import",
+              "description": "A TypeScript custom transformer that turns your synchronously imported components into lazy loaded through React.lazy() (or a factory of your choosing) 🔧",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164111990,
+                "language": "TypeScript",
+                "last_commit": "2019-04-17T14:50:29Z",
+                "owner": "avensia-oss",
+                "repo": "ts-transform-import-to-lazy-async-import",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-transform-instrument-react-components",
+              "description": "A TypeScript custom transformer that instruments React components to report which components exists in your bundle and which gets rendered 🔧",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163772159,
+                "language": "TypeScript",
+                "last_commit": "2019-04-17T15:15:56Z",
+                "owner": "avensia-oss",
+                "repo": "ts-transform-instrument-react-components",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jest-ts-auto-mock",
+              "description": "Jest test utility with automatic mock creation for interfaces and classes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173917833,
+                "language": "TypeScript",
+                "last_commit": "2024-09-09T05:07:35Z",
+                "owner": "Typescript-TDD",
+                "repo": "jest-ts-auto-mock",
+                "stars": 169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-transformer-testing-library",
+              "description": "Make testing custom TypeScript transformers a breeze",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 229334476,
+                "language": "TypeScript",
+                "last_commit": "2023-01-05T03:26:14Z",
+                "owner": "marionebl",
+                "repo": "ts-transformer-testing-library",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ts-transform-inferno",
+              "description": "TypeScript transformer for InfernoJS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101478825,
+                "language": "TypeScript",
+                "last_commit": "2022-03-04T08:04:17Z",
+                "owner": "deamme",
+                "repo": "ts-transform-inferno",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-transform-async-import",
+              "description": "A TypeScript custom transformer that turns synchronous imports of async functions into asynchronous imports 🔧",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163528551,
+                "language": "TypeScript",
+                "last_commit": "2018-12-30T12:31:57Z",
+                "owner": "avensia-oss",
+                "repo": "ts-transform-async-import",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-transform-export-const-folding",
+              "description": "This is a TypeScript custom transform that removes imported constants by inlining them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163295469,
+                "language": "TypeScript",
+                "last_commit": "2018-12-30T12:48:21Z",
+                "owner": "avensia-oss",
+                "repo": "ts-transform-export-const-folding",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Optimization"
+        }
+      ],
       "title": "Transformers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "typescript-is",
-          "description": "generate run-time type-checks",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-07-17T15:48:19Z",
-            "owner": "woutervh-",
-            "repo": "typescript-is",
-            "stars": 959
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-nameof",
-          "description": "nameof in TypeScript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-23T16:04:22Z",
-            "owner": "dsherret",
-            "repo": "ts-nameof",
-            "stars": 504
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@ts-tools/robotrix",
-          "description": "Useful TypeScript transpilation transformers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T21:10:13Z",
-            "owner": "AviVahl",
-            "repo": "ts-tools",
-            "stars": 170
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-transform-graphql-tag",
-          "description": "Compiles GraphQL tagged template strings using graphql-tag in TypeScript files",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-03T21:01:19Z",
-            "owner": "firede",
-            "repo": "ts-transform-graphql-tag",
-            "stars": 155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-transform-import-path-rewrite",
-          "description": "TS AST transformer to rewrite import path",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-08-07T14:33:25Z",
-            "owner": "dropbox",
-            "repo": "ts-transform-import-path-rewrite",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-transform-css-modules",
-          "description": "Extract css class names from required css module files for TypeScript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-16T10:01:50Z",
-            "owner": "longlho",
-            "repo": "ts-transform-css-modules",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-transform-json-schema",
-          "description": "Generate inline JSON schema from TypeScript types",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-04T21:42:37Z",
-            "owner": "marionebl",
-            "repo": "ts-transform-json-schema",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-transform-img",
-          "description": "Allow in TS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-16T10:01:45Z",
-            "owner": "longlho",
-            "repo": "ts-transform-img",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-transform-json",
-          "description": "Inline specific values from a JSON file or the whole JSON blob",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-06T10:57:47Z",
-            "owner": "longlho",
-            "repo": "ts-transform-json",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-transform-define",
-          "description": "Allows you to create global constants which can be configured at compile time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-06T03:55:15Z",
-            "owner": "itsdouges",
-            "repo": "ts-transform-define",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-trim-declarations",
-          "description": "Remove declarations marked with from your exported files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2020-11-05T10:39:38Z",
-            "owner": "cprecioso",
-            "repo": "ts-trim-declarations",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "General transformers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "typescript-plugin-styled-components",
-          "description": "TypeScript transformer for improving the debugging experience of styled-components",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-06-06T23:22:33Z",
-            "owner": "Igorbek",
-            "repo": "typescript-plugin-styled-components",
-            "stars": 418
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "emotion-ts-plugin",
-          "description": "TypeScript transformer for improving the debugging experience and abilities of emotion",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-04-07T09:43:38Z",
-            "owner": "LeetCode-OpenSource",
-            "repo": "emotion-ts-plugin",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-transform-react-constant-elements",
-          "description": "A TypeScript AST Transformer that can speed up reconciliation and reduce garbage collection pressure by hoisting React elements to the highest possible scope",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-08-29T21:27:45Z",
-            "owner": "dropbox",
-            "repo": "ts-transform-react-constant-elements",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-hot-ts",
-          "description": "A lightweight, TypeScript-native, Babel-free, plugin-free, implementation of react-hot-loader",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-07T03:52:25Z",
-            "owner": "elsassph",
-            "repo": "react-hot-ts",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-transform-react-jsx-source",
-          "description": "TypeScript AST Transformer that adds source file and line number to JSX elements",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-07-25T22:50:21Z",
-            "owner": "dropbox",
-            "repo": "ts-transform-react-jsx-source",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-transform-hoist-objects-in-props",
-          "description": "A TypeScript custom transformer that hoists object literals and functions that are passed to JSX props.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-12-09T12:11:28Z",
-            "owner": "avensia-oss",
-            "repo": "ts-transform-hoist-objects-in-props",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-transform-import-to-lazy-async-import",
-          "description": "A TypeScript custom transformer that turns your synchronously imported components into lazy loaded through React.lazy() (or a factory of your choosing) 🔧",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2019-04-17T14:50:29Z",
-            "owner": "avensia-oss",
-            "repo": "ts-transform-import-to-lazy-async-import",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-transform-instrument-react-components",
-          "description": "A TypeScript custom transformer that instruments React components to report which components exists in your bundle and which gets rendered 🔧",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2019-04-17T15:15:56Z",
-            "owner": "avensia-oss",
-            "repo": "ts-transform-instrument-react-components",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "React"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "jest-ts-auto-mock",
-          "description": "Jest test utility with automatic mock creation for interfaces and classes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-09-09T05:07:35Z",
-            "owner": "Typescript-TDD",
-            "repo": "jest-ts-auto-mock",
-            "stars": 169
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-transformer-testing-library",
-          "description": "Make testing custom TypeScript transformers a breeze",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-05T03:26:14Z",
-            "owner": "marionebl",
-            "repo": "ts-transformer-testing-library",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ts-transform-inferno",
-          "description": "TypeScript transformer for InfernoJS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-03-04T08:04:17Z",
-            "owner": "deamme",
-            "repo": "ts-transform-inferno",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-transform-async-import",
-          "description": "A TypeScript custom transformer that turns synchronous imports of async functions into asynchronous imports 🔧",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2018-12-30T12:31:57Z",
-            "owner": "avensia-oss",
-            "repo": "ts-transform-async-import",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-transform-export-const-folding",
-          "description": "This is a TypeScript custom transform that removes imported constants by inlining them.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2018-12-30T12:48:21Z",
-            "owner": "avensia-oss",
-            "repo": "ts-transform-export-const-folding",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Optimization"
     },
     {
       "description": "Language service plugins enable rich developer experience warnings, errors, and even intellisense in your IDE. Read how to write your own langauge service plugin here.",
@@ -437,6 +470,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 102672434,
             "language": "JavaScript",
             "last_commit": "2023-04-04T23:46:08Z",
             "owner": "microsoft",
@@ -451,6 +485,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87432483,
             "language": "TypeScript",
             "last_commit": "2026-08-14T01:57:58Z",
             "owner": "Quramy",
@@ -465,6 +500,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231647528,
             "language": "TypeScript",
             "last_commit": "2026-06-25T23:26:13Z",
             "owner": "segmentio",
@@ -479,6 +515,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186672832,
             "language": "TypeScript",
             "last_commit": "2026-07-06T11:12:15Z",
             "owner": "xialvjun",
@@ -493,6 +530,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78666590,
             "language": "TypeScript",
             "last_commit": "2019-11-06T20:57:14Z",
             "owner": "angelozerr",
@@ -507,6 +545,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 991491491,
             "language": "TypeScript",
             "last_commit": "2026-06-24T13:57:00Z",
             "owner": "ycmjason",
@@ -518,7 +557,7 @@
       "title": "Language service plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -527,6 +566,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83860739,
             "language": "TypeScript",
             "last_commit": "2026-07-31T14:14:07Z",
             "owner": "dsherret",
@@ -541,11 +581,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1184090452,
             "language": "Rust",
-            "last_commit": "2026-08-18T09:03:21Z",
+            "last_commit": "2026-08-19T09:10:40Z",
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4346
+            "stars": 4351
           }
         },
         {
@@ -555,6 +596,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43307254,
             "language": "TypeScript",
             "last_commit": "2026-07-14T15:28:20Z",
             "owner": "YousefED",
@@ -569,11 +611,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93129134,
             "language": "TypeScript",
             "last_commit": "2026-08-09T03:59:51Z",
             "owner": "vega",
             "repo": "ts-json-schema-generator",
-            "stars": 1712
+            "stars": 1713
           }
         },
         {
@@ -583,6 +626,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112488313,
             "language": "TypeScript",
             "last_commit": "2023-06-23T09:38:51Z",
             "owner": "cevek",
@@ -597,6 +641,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130511852,
             "language": "TypeScript",
             "last_commit": "2026-04-06T22:57:35Z",
             "owner": "phenomnomnominal",
@@ -611,6 +656,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165227423,
             "language": "TypeScript",
             "last_commit": "2023-03-06T18:46:51Z",
             "owner": "HearTao",
@@ -625,6 +671,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1238477430,
             "language": "Astro",
             "last_commit": "2026-05-14T16:54:33Z",
             "owner": "SolvoHQ",
@@ -637,7 +684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:16:41.368Z",
+    "last_updated": "2026-08-19T09:17:38.640Z",
     "original_repository": "itsdouges/awesome-typescript-ecosystem",
     "original_repository_sha": "f2d2984e0b917631dfae92f1fa8d456fd557af71",
     "enhanced_repository": "enhansome/enhansome-typescript-ecosystem",
