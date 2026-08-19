@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T19:07:48Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110203
+            "stars": 110204
           }
         },
         {
@@ -583,10 +583,10 @@
             "archived": false,
             "id": 1184090452,
             "language": "Rust",
-            "last_commit": "2026-08-19T09:10:40Z",
+            "last_commit": "2026-08-19T12:50:28Z",
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4351
+            "stars": 4352
           }
         },
         {
@@ -684,8 +684,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:17:38.640Z",
+    "last_updated": "2026-08-19T12:56:43.446Z",
     "original_repository": "itsdouges/awesome-typescript-ecosystem",
+    "original_repository_id": 230844622,
     "original_repository_sha": "f2d2984e0b917631dfae92f1fa8d456fd557af71",
     "enhanced_repository": "enhansome/enhansome-typescript-ecosystem",
     "enhanced_repository_description": null,
