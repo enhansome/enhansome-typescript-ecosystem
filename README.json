@@ -11,11 +11,11 @@
           "repo_info": {
             "archived": false,
             "id": 20929025,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T19:07:48Z",
+            "language": "Go",
+            "last_commit": "2026-08-20T05:11:01Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110204
+            "stars": 110241
           }
         },
         {
@@ -571,7 +571,7 @@
             "last_commit": "2026-07-31T14:14:07Z",
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6156
+            "stars": 6158
           }
         },
         {
@@ -583,10 +583,10 @@
             "archived": false,
             "id": 1184090452,
             "language": "Rust",
-            "last_commit": "2026-08-19T12:50:28Z",
+            "last_commit": "2026-08-20T09:14:29Z",
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4352
+            "stars": 4359
           }
         },
         {
@@ -684,7 +684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:56:43.446Z",
+    "last_updated": "2026-08-20T09:18:53.288Z",
     "original_repository": "itsdouges/awesome-typescript-ecosystem",
     "original_repository_id": 230844622,
     "original_repository_sha": "f2d2984e0b917631dfae92f1fa8d456fd557af71",
