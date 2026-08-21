@@ -12,10 +12,10 @@
             "archived": false,
             "id": 20929025,
             "language": "Go",
-            "last_commit": "2026-08-20T05:11:01Z",
+            "last_commit": "2026-08-20T20:41:20Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110241
+            "stars": 110340
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-06-29T11:46:59Z",
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21549
+            "stars": 21550
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2026-07-06T11:12:15Z",
             "owner": "xialvjun",
             "repo": "ts-sql-plugin",
-            "stars": 193
+            "stars": 192
           }
         },
         {
@@ -571,7 +571,7 @@
             "last_commit": "2026-07-31T14:14:07Z",
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6158
+            "stars": 6159
           }
         },
         {
@@ -583,10 +583,10 @@
             "archived": false,
             "id": 1184090452,
             "language": "Rust",
-            "last_commit": "2026-08-20T09:14:29Z",
+            "last_commit": "2026-08-21T07:47:58Z",
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4359
+            "stars": 4375
           }
         },
         {
@@ -601,7 +601,7 @@
             "last_commit": "2026-07-14T15:28:20Z",
             "owner": "YousefED",
             "repo": "typescript-json-schema",
-            "stars": 3267
+            "stars": 3266
           }
         },
         {
@@ -684,7 +684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:18:53.288Z",
+    "last_updated": "2026-08-21T09:20:34.140Z",
     "original_repository": "itsdouges/awesome-typescript-ecosystem",
     "original_repository_id": 230844622,
     "original_repository_sha": "f2d2984e0b917631dfae92f1fa8d456fd557af71",
