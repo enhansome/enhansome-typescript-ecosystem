@@ -8,8 +8,8 @@
 
 ## Handbooks
 
-* [TypeScript wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 110,428 | 🐛 5,201 | 🌐 Go | 📅 2026-08-21 - The official wiki for TypeScript lang
-* [typescript-book](https://github.com/basarat/typescript-book/) ⭐ 21,550 | 🐛 150 | 🌐 TypeScript | 📅 2024-06-29 - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖
+* [TypeScript wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 110,595 | 🐛 5,208 | 🌐 Go | 📅 2026-08-21 - The official wiki for TypeScript lang
+* [typescript-book](https://github.com/basarat/typescript-book/) ⭐ 21,551 | 🐛 150 | 🌐 TypeScript | 📅 2024-06-29 - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖
 * [TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) ⚠️ Archived - The TypeScript Handbook is a comprehensive guide to the TypeScript language
 * [ts-transformer-handbook](https://github.com/madou/ts-transformer-handbook) ⭐ 1,019 | 🐛 16 | 🌐 TypeScript | 📅 2025-02-14 - 📘 A handbook on how to create transformers for Typescript with real code examples
 
@@ -38,7 +38,7 @@ and more.
 ### Module resolution
 
 * [ts-transformer-imports](https://www.npmjs.com/package/ts-transformer-imports) - A TypeScript transformer which enables compilation of absolute imports (using baseUrl or paths) so they can be required as modules from Javascript or TypeScript, without additional configuration or path mapping
-* [ts-import-plugin](https://github.com/Brooooooklyn/ts-import-plugin) ⭐ 603 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-20 - Modular import plugin for TypeScript
+* [ts-import-plugin](https://github.com/Brooooooklyn/ts-import-plugin) ⭐ 603 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-22 - Modular import plugin for TypeScript
 
 ### React
 
@@ -74,7 +74,7 @@ and more.
 ## Language service plugins
 
 Language service plugins enable rich developer experience warnings, errors, and even intellisense in your IDE.
-Read [how to write your own langauge service plugin here](https://github.com/Microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin) ⭐ 110,428 | 🐛 5,201 | 🌐 Go | 📅 2026-08-21.
+Read [how to write your own langauge service plugin here](https://github.com/Microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin) ⭐ 110,595 | 🐛 5,208 | 🌐 Go | 📅 2026-08-21.
 
 * [typescript-styled-plugin](https://github.com/Microsoft/typescript-styled-plugin) ⚠️ Archived - TypeScript server plugin that adds intellisense to styled component css strings
 * [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) ⭐ 757 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-21 - TypeScript Language Service Plugin for GraphQL developers
@@ -85,8 +85,8 @@ Read [how to write your own langauge service plugin here](https://github.com/Mic
 
 ## Tools
 
-* [ts-morph](https://github.com/dsherret/ts-morph) ⭐ 6,159 | 🐛 292 | 🌐 TypeScript | 📅 2026-08-21 -  TypeScript Compiler API wrapper for static analysis and programmatic code changes
-* [fallow](https://github.com/fallow-rs/fallow) ⭐ 4,381 | 🐛 11 | 🌐 Rust | 📅 2026-08-22 - Finds dead code, duplication, circular dependencies, and complexity hotspots in TypeScript codebases
+* [ts-morph](https://github.com/dsherret/ts-morph) ⭐ 6,161 | 🐛 292 | 🌐 TypeScript | 📅 2026-08-21 -  TypeScript Compiler API wrapper for static analysis and programmatic code changes
+* [fallow](https://github.com/fallow-rs/fallow) ⭐ 4,391 | 🐛 14 | 🌐 Rust | 📅 2026-08-23 - Finds dead code, duplication, circular dependencies, and complexity hotspots in TypeScript codebases
 * [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) ⭐ 3,266 | 🐛 189 | 🌐 TypeScript | 📅 2026-07-14 - Generate json-schema from your TypeScript sources
 * [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) ⭐ 1,713 | 🐛 129 | 🌐 TypeScript | 📅 2026-08-09 - Generate JSON schema from your TypeScript sources
 * [ttypescript](https://github.com/cevek/ttypescript) ⭐ 1,534 | 🐛 23 | 🌐 TypeScript | 📅 2023-06-23 - Over TypeScript tool to use custom transformers in the tsconfig.json
@@ -96,4 +96,4 @@ Read [how to write your own langauge service plugin here](https://github.com/Mic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
