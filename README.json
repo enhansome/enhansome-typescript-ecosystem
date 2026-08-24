@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T01:47:42Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110643
+            "stars": 110650
           }
         },
         {
@@ -240,6 +240,28 @@
           "description": null,
           "node_type": "group",
           "title": "General transformers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ts-import-plugin",
+              "description": "Modular import plugin for TypeScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95949739,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T14:08:23Z",
+                "owner": "ts-plugin",
+                "repo": "ts-import-plugin",
+                "stars": 603
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Module resolution"
         },
         {
           "children": [
@@ -583,10 +605,10 @@
             "archived": false,
             "id": 1184090452,
             "language": "Rust",
-            "last_commit": "2026-08-24T08:58:58Z",
+            "last_commit": "2026-08-24T14:24:23Z",
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4397
+            "stars": 4399
           }
         },
         {
@@ -684,7 +706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:31:49.976Z",
+    "last_updated": "2026-08-24T14:39:02.344Z",
     "original_repository": "itsdouges/awesome-typescript-ecosystem",
     "original_repository_id": 230844622,
     "original_repository_sha": "f2d2984e0b917631dfae92f1fa8d456fd557af71",
