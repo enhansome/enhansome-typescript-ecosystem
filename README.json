@@ -12,10 +12,10 @@
             "archived": false,
             "id": 20929025,
             "language": "Go",
-            "last_commit": "2026-08-21T21:39:39Z",
+            "last_commit": "2026-08-24T01:47:42Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110595
+            "stars": 110643
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-06-29T11:46:59Z",
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21551
+            "stars": 21552
           }
         },
         {
@@ -487,7 +487,7 @@
             "archived": false,
             "id": 87432483,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T14:14:42Z",
+            "last_commit": "2026-08-23T23:03:50Z",
             "owner": "Quramy",
             "repo": "ts-graphql-plugin",
             "stars": 757
@@ -571,7 +571,7 @@
             "last_commit": "2026-08-21T22:15:42Z",
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6161
+            "stars": 6162
           }
         },
         {
@@ -583,10 +583,10 @@
             "archived": false,
             "id": 1184090452,
             "language": "Rust",
-            "last_commit": "2026-08-23T09:09:41Z",
+            "last_commit": "2026-08-24T08:58:58Z",
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4391
+            "stars": 4397
           }
         },
         {
@@ -616,7 +616,7 @@
             "last_commit": "2026-08-09T03:59:51Z",
             "owner": "vega",
             "repo": "ts-json-schema-generator",
-            "stars": 1713
+            "stars": 1714
           }
         },
         {
@@ -684,7 +684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:11:58.251Z",
+    "last_updated": "2026-08-24T09:31:49.976Z",
     "original_repository": "itsdouges/awesome-typescript-ecosystem",
     "original_repository_id": 230844622,
     "original_repository_sha": "f2d2984e0b917631dfae92f1fa8d456fd557af71",
