@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T22:58:23Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110666
+            "stars": 110671
           }
         },
         {
@@ -110,7 +110,7 @@
                 "archived": false,
                 "id": 134467449,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T03:32:36Z",
+                "last_commit": "2026-08-25T07:10:43Z",
                 "owner": "AviVahl",
                 "repo": "ts-tools",
                 "stars": 170
@@ -605,10 +605,10 @@
             "archived": false,
             "id": 1184090452,
             "language": "Rust",
-            "last_commit": "2026-08-25T05:53:17Z",
+            "last_commit": "2026-08-25T09:18:30Z",
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4406
+            "stars": 4408
           }
         },
         {
@@ -706,7 +706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:29:11.233Z",
+    "last_updated": "2026-08-25T09:20:56.265Z",
     "original_repository": "itsdouges/awesome-typescript-ecosystem",
     "original_repository_id": 230844622,
     "original_repository_sha": "f2d2984e0b917631dfae92f1fa8d456fd557af71",
