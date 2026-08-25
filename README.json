@@ -12,10 +12,10 @@
             "archived": false,
             "id": 20929025,
             "language": "Go",
-            "last_commit": "2026-08-24T01:47:42Z",
+            "last_commit": "2026-08-24T22:58:23Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110650
+            "stars": 110666
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-06-29T11:46:59Z",
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21552
+            "stars": 21553
           }
         },
         {
@@ -110,7 +110,7 @@
                 "archived": false,
                 "id": 134467449,
                 "language": "TypeScript",
-                "last_commit": "2026-08-11T21:10:13Z",
+                "last_commit": "2026-08-25T03:32:36Z",
                 "owner": "AviVahl",
                 "repo": "ts-tools",
                 "stars": 170
@@ -605,10 +605,10 @@
             "archived": false,
             "id": 1184090452,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:24:23Z",
+            "last_commit": "2026-08-25T05:53:17Z",
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4399
+            "stars": 4406
           }
         },
         {
@@ -706,7 +706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:39:02.344Z",
+    "last_updated": "2026-08-25T06:29:11.233Z",
     "original_repository": "itsdouges/awesome-typescript-ecosystem",
     "original_repository_id": 230844622,
     "original_repository_sha": "f2d2984e0b917631dfae92f1fa8d456fd557af71",
