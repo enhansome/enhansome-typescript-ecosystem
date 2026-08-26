@@ -12,10 +12,10 @@
             "archived": false,
             "id": 20929025,
             "language": "Go",
-            "last_commit": "2026-08-24T22:58:23Z",
+            "last_commit": "2026-08-26T06:59:15Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110671
+            "stars": 110693
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-06-29T11:46:59Z",
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21553
+            "stars": 21551
           }
         },
         {
@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 95949739,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T14:08:23Z",
+                "last_commit": "2026-08-26T02:33:14Z",
                 "owner": "ts-plugin",
                 "repo": "ts-import-plugin",
                 "stars": 603
@@ -509,7 +509,7 @@
             "archived": false,
             "id": 87432483,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T23:03:50Z",
+            "last_commit": "2026-08-25T16:49:34Z",
             "owner": "Quramy",
             "repo": "ts-graphql-plugin",
             "stars": 757
@@ -593,7 +593,7 @@
             "last_commit": "2026-08-21T22:15:42Z",
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6162
+            "stars": 6163
           }
         },
         {
@@ -605,10 +605,10 @@
             "archived": false,
             "id": 1184090452,
             "language": "Rust",
-            "last_commit": "2026-08-25T09:18:30Z",
+            "last_commit": "2026-08-26T09:07:18Z",
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4408
+            "stars": 4411
           }
         },
         {
@@ -706,7 +706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:20:56.265Z",
+    "last_updated": "2026-08-26T09:25:46.983Z",
     "original_repository": "itsdouges/awesome-typescript-ecosystem",
     "original_repository_id": 230844622,
     "original_repository_sha": "f2d2984e0b917631dfae92f1fa8d456fd557af71",
