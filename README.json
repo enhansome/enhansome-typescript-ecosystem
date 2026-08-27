@@ -12,10 +12,10 @@
             "archived": false,
             "id": 20929025,
             "language": "Go",
-            "last_commit": "2026-08-26T23:49:27Z",
+            "last_commit": "2026-08-27T19:14:23Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110728
+            "stars": 110735
           }
         },
         {
@@ -605,7 +605,7 @@
             "archived": false,
             "id": 1184090452,
             "language": "Rust",
-            "last_commit": "2026-08-27T12:11:14Z",
+            "last_commit": "2026-08-27T18:13:32Z",
             "owner": "fallow-rs",
             "repo": "fallow",
             "stars": 4416
@@ -706,7 +706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:11:15.294Z",
+    "last_updated": "2026-08-27T19:16:36.899Z",
     "original_repository_info": {
       "archived": false,
       "id": 230844622,
