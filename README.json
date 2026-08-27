@@ -12,10 +12,10 @@
             "archived": false,
             "id": 20929025,
             "language": "Go",
-            "last_commit": "2026-08-26T06:59:15Z",
+            "last_commit": "2026-08-26T23:49:27Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110693
+            "stars": 110728
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-06-29T11:46:59Z",
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21551
+            "stars": 21552
           }
         },
         {
@@ -110,7 +110,7 @@
                 "archived": false,
                 "id": 134467449,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T07:10:43Z",
+                "last_commit": "2026-08-27T12:06:04Z",
                 "owner": "AviVahl",
                 "repo": "ts-tools",
                 "stars": 170
@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 95949739,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T02:33:14Z",
+                "last_commit": "2026-08-26T23:48:37Z",
                 "owner": "ts-plugin",
                 "repo": "ts-import-plugin",
                 "stars": 603
@@ -590,10 +590,10 @@
             "archived": false,
             "id": 83860739,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T22:15:42Z",
+            "last_commit": "2026-08-26T13:47:14Z",
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6163
+            "stars": 6165
           }
         },
         {
@@ -605,10 +605,10 @@
             "archived": false,
             "id": 1184090452,
             "language": "Rust",
-            "last_commit": "2026-08-26T09:07:18Z",
+            "last_commit": "2026-08-27T12:11:14Z",
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4411
+            "stars": 4416
           }
         },
         {
@@ -623,7 +623,7 @@
             "last_commit": "2026-07-14T15:28:20Z",
             "owner": "YousefED",
             "repo": "typescript-json-schema",
-            "stars": 3266
+            "stars": 3267
           }
         },
         {
@@ -706,9 +706,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:25:46.983Z",
-    "original_repository": "itsdouges/awesome-typescript-ecosystem",
-    "original_repository_id": 230844622,
+    "last_updated": "2026-08-27T12:11:15.294Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 230844622,
+      "language": null,
+      "last_commit": "2026-05-14T10:03:21Z",
+      "owner": "itsdouges",
+      "repo": "awesome-typescript-ecosystem",
+      "stars": 141
+    },
     "original_repository_sha": "f2d2984e0b917631dfae92f1fa8d456fd557af71",
     "enhanced_repository": "enhansome/enhansome-typescript-ecosystem",
     "enhanced_repository_description": null,
