@@ -12,11 +12,12 @@
             "archived": false,
             "id": 20929025,
             "language": "Go",
-            "last_commit": "2026-08-27T19:14:23Z",
+            "last_commit": "2026-08-28T20:25:49Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110735
-          }
+            "stars": 110751
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2024-06-29T11:46:59Z",
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21552
-          }
+            "stars": 21551
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2020-08-01T19:54:09Z",
             "owner": "microsoft",
             "repo": "TypeScript-Handbook",
-            "stars": 4850
-          }
+            "stars": 4851
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "itsdouges",
             "repo": "typescript-transformer-handbook",
             "stars": 1019
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         }
       ],
       "title": "Handbooks"
@@ -84,7 +88,8 @@
                 "owner": "woutervh-",
                 "repo": "typescript-is",
                 "stars": 959
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "dsherret",
                 "repo": "ts-nameof",
                 "stars": 504
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "AviVahl",
                 "repo": "ts-tools",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "firede",
                 "repo": "ts-transform-graphql-tag",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "dropbox",
                 "repo": "ts-transform-import-path-rewrite",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "longlho",
                 "repo": "ts-transform-css-modules",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "marionebl",
                 "repo": "ts-transform-json-schema",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "longlho",
                 "repo": "ts-transform-img",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "longlho",
                 "repo": "ts-transform-json",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "itsdouges",
                 "repo": "ts-transform-define",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -234,7 +248,8 @@
                 "owner": "cprecioso",
                 "repo": "ts-trim-declarations",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             }
           ],
           "description": null,
@@ -252,11 +267,12 @@
                 "archived": false,
                 "id": 95949739,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T23:48:37Z",
+                "last_commit": "2026-08-28T07:56:29Z",
                 "owner": "ts-plugin",
                 "repo": "ts-import-plugin",
                 "stars": 603
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             }
           ],
           "description": null,
@@ -278,7 +294,8 @@
                 "owner": "Igorbek",
                 "repo": "typescript-plugin-styled-components",
                 "stars": 418
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -293,7 +310,8 @@
                 "owner": "LeetCode-OpenSource",
                 "repo": "emotion-ts-plugin",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -308,7 +326,8 @@
                 "owner": "dropbox",
                 "repo": "ts-transform-react-constant-elements",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -323,7 +342,8 @@
                 "owner": "elsassph",
                 "repo": "react-hot-ts",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -338,7 +358,8 @@
                 "owner": "dropbox",
                 "repo": "ts-transform-react-jsx-source",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -353,7 +374,8 @@
                 "owner": "avensia-oss",
                 "repo": "ts-transform-hoist-objects-in-props",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -368,7 +390,8 @@
                 "owner": "avensia-oss",
                 "repo": "ts-transform-import-to-lazy-async-import",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -383,7 +406,8 @@
                 "owner": "avensia-oss",
                 "repo": "ts-transform-instrument-react-components",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             }
           ],
           "description": null,
@@ -405,7 +429,8 @@
                 "owner": "Typescript-TDD",
                 "repo": "jest-ts-auto-mock",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -420,7 +445,8 @@
                 "owner": "marionebl",
                 "repo": "ts-transformer-testing-library",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             }
           ],
           "description": null,
@@ -442,7 +468,8 @@
                 "owner": "deamme",
                 "repo": "ts-transform-inferno",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -457,7 +484,8 @@
                 "owner": "avensia-oss",
                 "repo": "ts-transform-async-import",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             },
             {
               "node_type": "item",
@@ -472,7 +500,8 @@
                 "owner": "avensia-oss",
                 "repo": "ts-transform-export-const-folding",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:26:00.865Z"
             }
           ],
           "description": null,
@@ -498,7 +527,8 @@
             "owner": "microsoft",
             "repo": "typescript-styled-plugin",
             "stars": 835
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         },
         {
           "node_type": "item",
@@ -509,11 +539,12 @@
             "archived": false,
             "id": 87432483,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T16:49:34Z",
+            "last_commit": "2026-08-28T13:05:44Z",
             "owner": "Quramy",
             "repo": "ts-graphql-plugin",
             "stars": 757
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         },
         {
           "node_type": "item",
@@ -528,7 +559,8 @@
             "owner": "segmentio",
             "repo": "ts-mysql-plugin",
             "stars": 319
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         },
         {
           "node_type": "item",
@@ -542,8 +574,9 @@
             "last_commit": "2026-07-06T11:12:15Z",
             "owner": "xialvjun",
             "repo": "ts-sql-plugin",
-            "stars": 192
-          }
+            "stars": 194
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         },
         {
           "node_type": "item",
@@ -558,7 +591,8 @@
             "owner": "angelozerr",
             "repo": "tslint-language-service",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         },
         {
           "node_type": "item",
@@ -573,7 +607,8 @@
             "owner": "ycmjason",
             "repo": "ts-migrating",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         }
       ],
       "title": "Language service plugins"
@@ -593,8 +628,9 @@
             "last_commit": "2026-08-26T13:47:14Z",
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6165
-          }
+            "stars": 6166
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         },
         {
           "node_type": "item",
@@ -605,11 +641,12 @@
             "archived": false,
             "id": 1184090452,
             "language": "Rust",
-            "last_commit": "2026-08-27T18:13:32Z",
+            "last_commit": "2026-08-28T19:24:26Z",
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4416
-          }
+            "stars": 4424
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         },
         {
           "node_type": "item",
@@ -624,7 +661,8 @@
             "owner": "YousefED",
             "repo": "typescript-json-schema",
             "stars": 3267
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         },
         {
           "node_type": "item",
@@ -639,7 +677,8 @@
             "owner": "vega",
             "repo": "ts-json-schema-generator",
             "stars": 1714
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         },
         {
           "node_type": "item",
@@ -654,7 +693,8 @@
             "owner": "cevek",
             "repo": "ttypescript",
             "stars": 1534
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         },
         {
           "node_type": "item",
@@ -669,7 +709,8 @@
             "owner": "phenomnomnominal",
             "repo": "tsquery",
             "stars": 1053
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         },
         {
           "node_type": "item",
@@ -684,7 +725,8 @@
             "owner": "HearTao",
             "repo": "ts-creator",
             "stars": 391
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         },
         {
           "node_type": "item",
@@ -699,14 +741,15 @@
             "owner": "SolvoHQ",
             "repo": "jsontosdk",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.865Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:16:36.899Z",
+    "last_updated": "2026-08-28T20:26:00.865Z",
     "original_repository_info": {
       "archived": false,
       "id": 230844622,
