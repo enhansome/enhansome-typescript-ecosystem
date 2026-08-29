@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T00:01:59Z",
-            "open_issues": 5166,
+            "open_issues": 5169,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110758,
+            "stars": 110770,
             "topics": [
               "javascript",
               "language",
@@ -45,7 +45,7 @@
             "open_issues": 150,
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21551,
+            "stars": 21552,
             "topics": [
               "free",
               "open-source",
@@ -947,8 +947,8 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-28T19:24:26Z",
-            "open_issues": 9,
+            "last_commit": "2026-08-29T13:07:33Z",
+            "open_issues": 14,
             "owner": "fallow-rs",
             "repo": "fallow",
             "stars": 4425,
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:54:09.955Z",
+    "last_updated": "2026-08-29T14:01:23.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
