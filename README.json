@@ -15,11 +15,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T00:03:52Z",
-            "open_issues": 5165,
+            "last_commit": "2026-09-02T11:19:03Z",
+            "open_issues": 5153,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110832,
+            "stars": 110851,
             "topics": [
               "javascript",
               "language",
@@ -45,7 +45,7 @@
             "open_issues": 150,
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21552,
+            "stars": 21553,
             "topics": [
               "free",
               "open-source",
@@ -179,7 +179,7 @@
                 "id": 134467449,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-30T22:33:28Z",
+                "last_commit": "2026-09-02T10:34:54Z",
                 "open_issues": 1,
                 "owner": "AviVahl",
                 "repo": "ts-tools",
@@ -924,7 +924,7 @@
             "open_issues": 292,
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6168,
+            "stars": 6170,
             "topics": [
               "ast",
               "code-generation",
@@ -947,11 +947,11 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-01T13:38:43Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-02T12:56:08Z",
+            "open_issues": 6,
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4437,
+            "stars": 4440,
             "topics": [
               "cli",
               "code-duplication",
@@ -1012,7 +1012,7 @@
             "open_issues": 130,
             "owner": "vega",
             "repo": "ts-json-schema-generator",
-            "stars": 1714,
+            "stars": 1715,
             "topics": [
               "compiler",
               "generator",
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T13:42:59.318Z",
+    "last_updated": "2026-09-02T12:59:08.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
