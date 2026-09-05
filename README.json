@@ -15,11 +15,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T00:58:49Z",
-            "open_issues": 5135,
+            "last_commit": "2026-09-05T07:37:09Z",
+            "open_issues": 5110,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110887,
+            "stars": 110895,
             "topics": [
               "javascript",
               "language",
@@ -45,7 +45,7 @@
             "open_issues": 150,
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21551,
+            "stars": 21553,
             "topics": [
               "free",
               "open-source",
@@ -183,7 +183,7 @@
                 "open_issues": 1,
                 "owner": "AviVahl",
                 "repo": "ts-tools",
-                "stars": 170,
+                "stars": 171,
                 "topics": [
                   "loader",
                   "nodejs",
@@ -408,7 +408,7 @@
                 "id": 95949739,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T14:30:47Z",
+                "last_commit": "2026-09-05T10:31:40Z",
                 "open_issues": 25,
                 "owner": "ts-plugin",
                 "repo": "ts-import-plugin",
@@ -792,7 +792,7 @@
             "id": 87432483,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T23:12:11Z",
+            "last_commit": "2026-09-04T15:37:14Z",
             "open_issues": 30,
             "owner": "Quramy",
             "repo": "ts-graphql-plugin",
@@ -921,10 +921,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-02T18:30:58Z",
-            "open_issues": 292,
+            "open_issues": 293,
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6172,
+            "stars": 6173,
             "topics": [
               "ast",
               "code-generation",
@@ -947,11 +947,11 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-04T12:14:33Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-05T11:17:24Z",
+            "open_issues": 9,
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4446,
+            "stars": 4449,
             "topics": [
               "cli",
               "code-duplication",
@@ -991,7 +991,7 @@
             "open_issues": 189,
             "owner": "YousefED",
             "repo": "typescript-json-schema",
-            "stars": 3267,
+            "stars": 3266,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.865Z"
@@ -1038,7 +1038,7 @@
             "open_issues": 23,
             "owner": "cevek",
             "repo": "ttypescript",
-            "stars": 1534,
+            "stars": 1535,
             "topics": [
               "custom-transformer",
               "transformer-typescript",
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:56:48.949Z",
+    "last_updated": "2026-09-05T12:07:47.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
