@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-05T07:37:09Z",
-            "open_issues": 5078,
+            "open_issues": 5062,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110963,
+            "stars": 110986,
             "topics": [
               "javascript",
               "language",
@@ -72,7 +72,7 @@
             "open_issues": 181,
             "owner": "microsoft",
             "repo": "TypeScript-Handbook",
-            "stars": 4850,
+            "stars": 4849,
             "topics": [
               "documentation",
               "learn",
@@ -408,11 +408,11 @@
                 "id": 95949739,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T10:31:40Z",
+                "last_commit": "2026-09-07T16:08:56Z",
                 "open_issues": 25,
                 "owner": "ts-plugin",
                 "repo": "ts-import-plugin",
-                "stars": 603,
+                "stars": 602,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:00.865Z"
@@ -792,7 +792,7 @@
             "id": 87432483,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T10:15:10Z",
+            "last_commit": "2026-09-08T01:22:05Z",
             "open_issues": 30,
             "owner": "Quramy",
             "repo": "ts-graphql-plugin",
@@ -947,11 +947,11 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-07T14:05:22Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-08T12:06:13Z",
+            "open_issues": 3,
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4459,
+            "stars": 4462,
             "topics": [
               "cli",
               "code-duplication",
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T14:28:50.022Z",
+    "last_updated": "2026-09-08T13:05:37.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
