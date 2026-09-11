@@ -15,11 +15,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T22:28:55Z",
-            "open_issues": 5042,
+            "last_commit": "2026-09-10T23:32:02Z",
+            "open_issues": 5055,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110985,
+            "stars": 110994,
             "topics": [
               "javascript",
               "language",
@@ -45,7 +45,7 @@
             "open_issues": 150,
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21553,
+            "stars": 21550,
             "topics": [
               "free",
               "open-source",
@@ -55,6 +55,40 @@
             ]
           },
           "first_seen": "2026-08-28T20:26:00.865Z"
+        },
+        {
+          "node_type": "item",
+          "title": "The Concise TypeScript Book",
+          "description": "A free and open-source TypeScript book covering fundamentals through advanced concepts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.",
+            "homepage": "https://gibbok.github.io/typescript-book/",
+            "id": 532590625,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-11T07:20:59Z",
+            "open_issues": 2,
+            "owner": "gibbok",
+            "repo": "typescript-book",
+            "stars": 10345,
+            "topics": [
+              "book",
+              "free",
+              "javascript",
+              "javascript-book",
+              "learn-typescript",
+              "typescript",
+              "typescript-book",
+              "typescript-guide",
+              "typescript-guidebook",
+              "typescript-language",
+              "typescript-learning",
+              "typescript-tutorials"
+            ]
+          },
+          "first_seen": "2026-09-11T13:02:00.514Z"
         },
         {
           "node_type": "item",
@@ -408,7 +442,7 @@
                 "id": 95949739,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T19:36:01Z",
+                "last_commit": "2026-09-10T20:00:14Z",
                 "open_issues": 25,
                 "owner": "ts-plugin",
                 "repo": "ts-import-plugin",
@@ -924,7 +958,7 @@
             "open_issues": 292,
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6178,
+            "stars": 6179,
             "topics": [
               "ast",
               "code-generation",
@@ -947,11 +981,11 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-10T12:48:32Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-11T12:09:47Z",
+            "open_issues": 8,
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4466,
+            "stars": 4470,
             "topics": [
               "cli",
               "code-duplication",
@@ -1009,7 +1043,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-02T22:27:17Z",
-            "open_issues": 130,
+            "open_issues": 131,
             "owner": "vega",
             "repo": "ts-json-schema-generator",
             "stars": 1715,
@@ -1127,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:08:33.139Z",
+    "last_updated": "2026-09-11T13:02:00.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
@@ -1135,7 +1169,7 @@
       "id": 230844622,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-05-14T10:03:21Z",
+      "last_commit": "2026-09-10T20:46:55Z",
       "open_issues": 2,
       "owner": "itsdouges",
       "repo": "awesome-typescript-ecosystem",
@@ -1149,7 +1183,7 @@
         "typescript"
       ]
     },
-    "original_repository_sha": "f2d2984e0b917631dfae92f1fa8d456fd557af71",
+    "original_repository_sha": "101361f438bbe6c3a2fa83921e2476fd4d4c1d30",
     "enhanced_repository": "enhansome/enhansome-typescript-ecosystem",
     "enhanced_repository_description": null,
     "title": "Awesome TypeScript Ecosystem with stars"
