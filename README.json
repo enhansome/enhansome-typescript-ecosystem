@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-12T00:32:38Z",
-            "open_issues": 5059,
+            "open_issues": 5062,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111007,
+            "stars": 111022,
             "topics": [
               "javascript",
               "language",
@@ -45,7 +45,7 @@
             "open_issues": 150,
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21552,
+            "stars": 21553,
             "topics": [
               "free",
               "open-source",
@@ -213,7 +213,7 @@
                 "id": 134467449,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T16:06:46Z",
+                "last_commit": "2026-09-12T14:27:30Z",
                 "open_issues": 1,
                 "owner": "AviVahl",
                 "repo": "ts-tools",
@@ -981,11 +981,11 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-12T11:37:56Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-13T12:37:49Z",
+            "open_issues": 14,
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4484,
+            "stars": 4498,
             "topics": [
               "cli",
               "code-duplication",
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:23:54.293Z",
+    "last_updated": "2026-09-13T13:28:31.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
