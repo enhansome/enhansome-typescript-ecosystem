@@ -15,11 +15,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T01:41:57Z",
-            "open_issues": 5073,
+            "last_commit": "2026-09-18T03:09:48Z",
+            "open_issues": 5066,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111106,
+            "stars": 111099,
             "topics": [
               "javascript",
               "language",
@@ -72,7 +72,7 @@
             "open_issues": 1,
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10346,
+            "stars": 10347,
             "topics": [
               "book",
               "free",
@@ -446,7 +446,7 @@
                 "open_issues": 25,
                 "owner": "ts-plugin",
                 "repo": "ts-import-plugin",
-                "stars": 602,
+                "stars": 603,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:00.865Z"
@@ -826,7 +826,7 @@
             "id": 87432483,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T16:48:27Z",
+            "last_commit": "2026-09-18T01:52:30Z",
             "open_issues": 30,
             "owner": "Quramy",
             "repo": "ts-graphql-plugin",
@@ -958,7 +958,7 @@
             "open_issues": 292,
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6181,
+            "stars": 6185,
             "topics": [
               "ast",
               "code-generation",
@@ -981,11 +981,11 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-17T12:33:55Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-18T12:13:33Z",
+            "open_issues": 21,
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4558,
+            "stars": 4577,
             "topics": [
               "cli",
               "code-duplication",
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T13:48:23.947Z",
+    "last_updated": "2026-09-18T13:10:58.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
