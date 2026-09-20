@@ -15,11 +15,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T10:03:39Z",
-            "open_issues": 5011,
+            "last_commit": "2026-09-20T09:23:18Z",
+            "open_issues": 5021,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111109,
+            "stars": 111127,
             "topics": [
               "javascript",
               "language",
@@ -68,11 +68,11 @@
             "id": 532590625,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T15:11:21Z",
+            "last_commit": "2026-09-20T11:30:57Z",
             "open_issues": 1,
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10347,
+            "stars": 10349,
             "topics": [
               "book",
               "free",
@@ -958,7 +958,7 @@
             "open_issues": 292,
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6185,
+            "stars": 6187,
             "topics": [
               "ast",
               "code-generation",
@@ -981,11 +981,11 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-19T11:57:15Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-20T12:08:03Z",
+            "open_issues": 16,
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4588,
+            "stars": 4608,
             "topics": [
               "cli",
               "code-duplication",
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:42:18.500Z",
+    "last_updated": "2026-09-20T13:14:12.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
