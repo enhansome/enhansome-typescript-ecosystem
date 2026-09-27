@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T23:51:52Z",
-            "open_issues": 5028,
+            "open_issues": 5042,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111212,
+            "stars": 111230,
             "topics": [
               "javascript",
               "language",
@@ -72,7 +72,7 @@
             "open_issues": 1,
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10357,
+            "stars": 10358,
             "topics": [
               "book",
               "free",
@@ -826,7 +826,7 @@
             "id": 87432483,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T14:54:34Z",
+            "last_commit": "2026-09-27T11:57:10Z",
             "open_issues": 30,
             "owner": "Quramy",
             "repo": "ts-graphql-plugin",
@@ -981,11 +981,11 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-26T13:19:14Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-27T13:27:08Z",
+            "open_issues": 13,
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4896,
+            "stars": 4921,
             "topics": [
               "cli",
               "code-duplication",
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:24:00.608Z",
+    "last_updated": "2026-09-27T14:19:17.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
