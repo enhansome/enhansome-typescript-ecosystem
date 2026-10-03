@@ -15,11 +15,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T00:09:53Z",
-            "open_issues": 5051,
+            "last_commit": "2026-10-03T04:24:16Z",
+            "open_issues": 5052,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111309,
+            "stars": 111314,
             "topics": [
               "javascript",
               "language",
@@ -72,7 +72,7 @@
             "open_issues": 1,
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10359,
+            "stars": 10360,
             "topics": [
               "book",
               "free",
@@ -106,7 +106,7 @@
             "open_issues": 181,
             "owner": "microsoft",
             "repo": "TypeScript-Handbook",
-            "stars": 4850,
+            "stars": 4849,
             "topics": [
               "documentation",
               "learn",
@@ -826,11 +826,11 @@
             "id": 87432483,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T03:51:20Z",
+            "last_commit": "2026-10-02T20:52:58Z",
             "open_issues": 30,
             "owner": "Quramy",
             "repo": "ts-graphql-plugin",
-            "stars": 758,
+            "stars": 757,
             "topics": [
               "graphql",
               "language-server",
@@ -958,7 +958,7 @@
             "open_issues": 292,
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6199,
+            "stars": 6198,
             "topics": [
               "ast",
               "code-generation",
@@ -981,11 +981,11 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T13:22:28Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-02T22:35:16Z",
+            "open_issues": 3,
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 4985,
+            "stars": 4986,
             "topics": [
               "architecture",
               "circular-dependencies",
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:03:58.156Z",
+    "last_updated": "2026-10-03T05:11:46.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
