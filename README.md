@@ -8,9 +8,9 @@
 
 ## Handbooks
 
-* [TypeScript wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 111,314 | 🐛 5,052 | 🌐 Go | 📅 2026-10-03 - The official wiki for TypeScript lang
+* [TypeScript wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 111,323 | 🐛 5,056 | 🌐 Go | 📅 2026-10-03 - The official wiki for TypeScript lang
 * [typescript-book](https://github.com/basarat/typescript-book/) ⭐ 21,563 | 🐛 150 | 🌐 TypeScript | 📅 2024-06-29 - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖
-* [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) ⭐ 10,360 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-02 - A free and open-source TypeScript book covering fundamentals through advanced concepts.
+* [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) ⭐ 10,359 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-02 - A free and open-source TypeScript book covering fundamentals through advanced concepts.
 * [TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) ⚠️ Archived - The TypeScript Handbook is a comprehensive guide to the TypeScript language
 * [ts-transformer-handbook](https://github.com/madou/ts-transformer-handbook) ⭐ 1,020 | 🐛 16 | 🌐 TypeScript | 📅 2025-02-14 - 📘 A handbook on how to create transformers for Typescript with real code examples
 
@@ -75,7 +75,7 @@ and more.
 ## Language service plugins
 
 Language service plugins enable rich developer experience warnings, errors, and even intellisense in your IDE.
-Read [how to write your own langauge service plugin here](https://github.com/Microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin) ⭐ 111,314 | 🐛 5,052 | 🌐 Go | 📅 2026-10-03.
+Read [how to write your own langauge service plugin here](https://github.com/Microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin) ⭐ 111,323 | 🐛 5,056 | 🌐 Go | 📅 2026-10-03.
 
 * [typescript-styled-plugin](https://github.com/Microsoft/typescript-styled-plugin) ⚠️ Archived - TypeScript server plugin that adds intellisense to styled component css strings
 * [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) ⭐ 757 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-02 - TypeScript Language Service Plugin for GraphQL developers
@@ -87,7 +87,7 @@ Read [how to write your own langauge service plugin here](https://github.com/Mic
 ## Tools
 
 * [ts-morph](https://github.com/dsherret/ts-morph) ⭐ 6,198 | 🐛 292 | 🌐 TypeScript | 📅 2026-09-29 -  TypeScript Compiler API wrapper for static analysis and programmatic code changes
-* [fallow](https://github.com/fallow-rs/fallow) ⭐ 4,986 | 🐛 3 | 🌐 Rust | 📅 2026-10-02 - Finds dead code, duplication, circular dependencies, and complexity hotspots in TypeScript codebases
+* [fallow](https://github.com/fallow-rs/fallow) ⭐ 4,988 | 🐛 3 | 🌐 Rust | 📅 2026-10-03 - Finds dead code, duplication, circular dependencies, and complexity hotspots in TypeScript codebases
 * [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) ⭐ 3,267 | 🐛 188 | 🌐 TypeScript | 📅 2026-07-14 - Generate json-schema from your TypeScript sources
 * [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) ⭐ 1,716 | 🐛 130 | 🌐 TypeScript | 📅 2026-10-01 - Generate JSON schema from your TypeScript sources
 * [ttypescript](https://github.com/cevek/ttypescript) ⭐ 1,534 | 🐛 23 | 🌐 TypeScript | 📅 2023-06-23 - Over TypeScript tool to use custom transformers in the tsconfig.json
