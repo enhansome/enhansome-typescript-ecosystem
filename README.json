@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T09:21:46Z",
-            "open_issues": 5072,
+            "open_issues": 5075,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111368,
+            "stars": 111367,
             "topics": [
               "javascript",
               "language",
@@ -72,7 +72,7 @@
             "open_issues": 1,
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10359,
+            "stars": 10360,
             "topics": [
               "book",
               "free",
@@ -217,7 +217,7 @@
                 "open_issues": 1,
                 "owner": "AviVahl",
                 "repo": "ts-tools",
-                "stars": 170,
+                "stars": 171,
                 "topics": [
                   "loader",
                   "nodejs",
@@ -958,7 +958,7 @@
             "open_issues": 295,
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6199,
+            "stars": 6200,
             "topics": [
               "ast",
               "code-generation",
@@ -981,8 +981,8 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:45:00Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-06T14:38:28Z",
+            "open_issues": 15,
             "owner": "fallow-rs",
             "repo": "fallow",
             "stars": 5009,
@@ -1025,7 +1025,7 @@
             "open_issues": 188,
             "owner": "YousefED",
             "repo": "typescript-json-schema",
-            "stars": 3266,
+            "stars": 3267,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.865Z"
@@ -1046,7 +1046,7 @@
             "open_issues": 130,
             "owner": "vega",
             "repo": "ts-json-schema-generator",
-            "stars": 1716,
+            "stars": 1717,
             "topics": [
               "compiler",
               "generator",
@@ -1098,7 +1098,7 @@
             "open_issues": 12,
             "owner": "phenomnomnominal",
             "repo": "tsquery",
-            "stars": 1056,
+            "stars": 1057,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.865Z"
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:55:42.717Z",
+    "last_updated": "2026-10-06T15:29:40.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
