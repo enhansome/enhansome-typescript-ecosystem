@@ -15,11 +15,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T17:56:30Z",
-            "open_issues": 5110,
+            "last_commit": "2026-10-13T07:07:55Z",
+            "open_issues": 5121,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111421,
+            "stars": 111434,
             "topics": [
               "javascript",
               "language",
@@ -45,7 +45,7 @@
             "open_issues": 149,
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21568,
+            "stars": 21569,
             "topics": [
               "free",
               "open-source",
@@ -68,11 +68,11 @@
             "id": 532590625,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-11T17:36:58Z",
+            "last_commit": "2026-10-13T15:47:19Z",
             "open_issues": 1,
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10359,
+            "stars": 10357,
             "topics": [
               "book",
               "free",
@@ -809,7 +809,7 @@
             "open_issues": 0,
             "owner": "microsoft",
             "repo": "typescript-styled-plugin",
-            "stars": 833,
+            "stars": 832,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.865Z"
@@ -826,7 +826,7 @@
             "id": 87432483,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T13:27:05Z",
+            "last_commit": "2026-10-13T14:54:32Z",
             "open_issues": 30,
             "owner": "Quramy",
             "repo": "ts-graphql-plugin",
@@ -958,7 +958,7 @@
             "open_issues": 296,
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6202,
+            "stars": 6201,
             "topics": [
               "ast",
               "code-generation",
@@ -981,11 +981,11 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-12T13:43:28Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-13T16:25:57Z",
+            "open_issues": 11,
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 5040,
+            "stars": 5050,
             "topics": [
               "architecture",
               "circular-dependencies",
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T18:14:32.457Z",
+    "last_updated": "2026-10-13T16:28:52.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
