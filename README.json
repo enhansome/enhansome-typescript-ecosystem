@@ -15,11 +15,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T15:38:06Z",
-            "open_issues": 5132,
+            "last_commit": "2026-10-20T07:09:07Z",
+            "open_issues": 5147,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111538,
+            "stars": 111554,
             "topics": [
               "javascript",
               "language",
@@ -958,7 +958,7 @@
             "open_issues": 301,
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6205,
+            "stars": 6208,
             "topics": [
               "ast",
               "code-generation",
@@ -981,11 +981,11 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-19T15:49:09Z",
+            "last_commit": "2026-10-20T13:50:16Z",
             "open_issues": 30,
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 5184,
+            "stars": 5198,
             "topics": [
               "architecture",
               "circular-dependencies",
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T15:53:30.702Z",
+    "last_updated": "2026-10-20T13:52:25.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
