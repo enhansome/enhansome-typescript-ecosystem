@@ -8,9 +8,9 @@
 
 ## Handbooks
 
-* [TypeScript wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 111,553 | 🐛 5,154 | 🌐 Go | 📅 2026-10-21 - The official wiki for TypeScript lang
-* [typescript-book](https://github.com/basarat/typescript-book/) ⭐ 21,571 | 🐛 149 | 🌐 TypeScript | 📅 2024-06-29 - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖
-* [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) ⭐ 10,362 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-21 - A free and open-source TypeScript book covering fundamentals through advanced concepts.
+* [TypeScript wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 111,568 | 🐛 5,171 | 🌐 Go | 📅 2026-10-22 - The official wiki for TypeScript lang
+* [typescript-book](https://github.com/basarat/typescript-book/) ⭐ 21,573 | 🐛 149 | 🌐 TypeScript | 📅 2024-06-29 - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖
+* [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) ⭐ 10,361 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-21 - A free and open-source TypeScript book covering fundamentals through advanced concepts.
 * [TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) ⚠️ Archived - The TypeScript Handbook is a comprehensive guide to the TypeScript language
 * [ts-transformer-handbook](https://github.com/madou/ts-transformer-handbook) ⭐ 1,020 | 🐛 16 | 🌐 TypeScript | 📅 2025-02-14 - 📘 A handbook on how to create transformers for Typescript with real code examples
 
@@ -26,7 +26,7 @@ and more.
 
 * [typescript-is](https://github.com/woutervh-/typescript-is#readme) ⭐ 957 | 🐛 47 | 🌐 TypeScript | 📅 2023-07-17 - generate run-time type-checks
 * [ts-nameof](https://github.com/dsherret/ts-nameof) ⚠️ Archived - nameof in TypeScript
-* [@ts-tools/robotrix](https://github.com/AviVahl/ts-tools/tree/master/packages/robotrix) ⭐ 170 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-16 - Useful TypeScript transpilation transformers.
+* [@ts-tools/robotrix](https://github.com/AviVahl/ts-tools/tree/master/packages/robotrix) ⭐ 170 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-22 - Useful TypeScript transpilation transformers.
 * [ts-transform-graphql-tag](https://github.com/firede/ts-transform-graphql-tag) ⭐ 155 | 🐛 17 | 🌐 TypeScript | 📅 2023-01-03 - Compiles GraphQL tagged template strings using graphql-tag in TypeScript files
 * [ts-transform-import-path-rewrite](https://github.com/dropbox/ts-transform-import-path-rewrite) ⭐ 130 | 🐛 12 | 🌐 TypeScript | 📅 2023-08-07 - TS AST transformer to rewrite import path
 * [ts-transform-css-modules](https://github.com/longlho/ts-transform-css-modules) ⭐ 85 | 🐛 25 | 🌐 TypeScript | 📅 2023-01-16 - Extract css class names from required css module files for TypeScript
@@ -38,7 +38,7 @@ and more.
 
 ### Module resolution
 
-* [ts-import-plugin](https://github.com/Brooooooklyn/ts-import-plugin) ⭐ 603 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-20 - Modular import plugin for TypeScript
+* [ts-import-plugin](https://github.com/Brooooooklyn/ts-import-plugin) ⭐ 603 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-22 - Modular import plugin for TypeScript
 * [ts-transformer-imports](https://www.npmjs.com/package/ts-transformer-imports) - A TypeScript transformer which enables compilation of absolute imports (using baseUrl or paths) so they can be required as modules from Javascript or TypeScript, without additional configuration or path mapping
 
 ### React
@@ -75,7 +75,7 @@ and more.
 ## Language service plugins
 
 Language service plugins enable rich developer experience warnings, errors, and even intellisense in your IDE.
-Read [how to write your own langauge service plugin here](https://github.com/Microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin) ⭐ 111,553 | 🐛 5,154 | 🌐 Go | 📅 2026-10-21.
+Read [how to write your own langauge service plugin here](https://github.com/Microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin) ⭐ 111,568 | 🐛 5,171 | 🌐 Go | 📅 2026-10-22.
 
 * [typescript-styled-plugin](https://github.com/Microsoft/typescript-styled-plugin) ⚠️ Archived - TypeScript server plugin that adds intellisense to styled component css strings
 * [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) ⭐ 756 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-20 - TypeScript Language Service Plugin for GraphQL developers
@@ -86,10 +86,10 @@ Read [how to write your own langauge service plugin here](https://github.com/Mic
 
 ## Tools
 
-* [ts-morph](https://github.com/dsherret/ts-morph) ⭐ 6,213 | 🐛 301 | 🌐 TypeScript | 📅 2026-09-29 -  TypeScript Compiler API wrapper for static analysis and programmatic code changes
-* [fallow](https://github.com/fallow-rs/fallow) ⭐ 5,204 | 🐛 21 | 🌐 Rust | 📅 2026-10-21 - Finds dead code, duplication, circular dependencies, and complexity hotspots in TypeScript codebases
+* [ts-morph](https://github.com/dsherret/ts-morph) ⭐ 6,214 | 🐛 301 | 🌐 TypeScript | 📅 2026-09-29 -  TypeScript Compiler API wrapper for static analysis and programmatic code changes
+* [fallow](https://github.com/fallow-rs/fallow) ⭐ 5,212 | 🐛 20 | 🌐 Rust | 📅 2026-10-22 - Finds dead code, duplication, circular dependencies, and complexity hotspots in TypeScript codebases
 * [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) ⭐ 3,266 | 🐛 188 | 🌐 TypeScript | 📅 2026-07-14 - Generate json-schema from your TypeScript sources
-* [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) ⭐ 1,717 | 🐛 130 | 🌐 TypeScript | 📅 2026-10-17 - Generate JSON schema from your TypeScript sources
+* [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) ⭐ 1,717 | 🐛 131 | 🌐 TypeScript | 📅 2026-10-17 - Generate JSON schema from your TypeScript sources
 * [ttypescript](https://github.com/cevek/ttypescript) ⭐ 1,534 | 🐛 23 | 🌐 TypeScript | 📅 2023-06-23 - Over TypeScript tool to use custom transformers in the tsconfig.json
 * [ts-query](https://github.com/phenomnomnominal/tsquery) ⭐ 1,057 | 🐛 13 | 🌐 TypeScript | 📅 2026-04-06 - TypeScript AST query library
 * [ts-creator](https://github.com/HearTao/ts-creator) ⭐ 392 | 🐛 22 | 🌐 TypeScript | 📅 2023-03-06 - A code generator to generate TypeScript code generator from TypeScript code
@@ -97,4 +97,4 @@ Read [how to write your own langauge service plugin here](https://github.com/Mic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
