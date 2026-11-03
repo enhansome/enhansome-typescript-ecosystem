@@ -8,8 +8,8 @@
 
 ## Handbooks
 
-* [TypeScript wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 111,720 | 🐛 5,248 | 🌐 Go | 📅 2026-11-02 - The official wiki for TypeScript lang
-* [typescript-book](https://github.com/basarat/typescript-book/) ⭐ 21,581 | 🐛 149 | 🌐 TypeScript | 📅 2024-06-29 - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖
+* [TypeScript wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 111,727 | 🐛 5,250 | 🌐 Go | 📅 2026-11-03 - The official wiki for TypeScript lang
+* [typescript-book](https://github.com/basarat/typescript-book/) ⭐ 21,583 | 🐛 149 | 🌐 TypeScript | 📅 2024-06-29 - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖
 * [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) ⭐ 10,366 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-30 - A free and open-source TypeScript book covering fundamentals through advanced concepts.
 * [TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) ⚠️ Archived - The TypeScript Handbook is a comprehensive guide to the TypeScript language
 * [ts-transformer-handbook](https://github.com/madou/ts-transformer-handbook) ⭐ 1,020 | 🐛 16 | 🌐 TypeScript | 📅 2025-02-14 - 📘 A handbook on how to create transformers for Typescript with real code examples
@@ -75,10 +75,10 @@ and more.
 ## Language service plugins
 
 Language service plugins enable rich developer experience warnings, errors, and even intellisense in your IDE.
-Read [how to write your own langauge service plugin here](https://github.com/Microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin) ⭐ 111,720 | 🐛 5,248 | 🌐 Go | 📅 2026-11-02.
+Read [how to write your own langauge service plugin here](https://github.com/Microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin) ⭐ 111,727 | 🐛 5,250 | 🌐 Go | 📅 2026-11-03.
 
 * [typescript-styled-plugin](https://github.com/Microsoft/typescript-styled-plugin) ⚠️ Archived - TypeScript server plugin that adds intellisense to styled component css strings
-* [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) ⭐ 755 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-31 - TypeScript Language Service Plugin for GraphQL developers
+* [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) ⭐ 755 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-02 - TypeScript Language Service Plugin for GraphQL developers
 * [ts-mysql-plugin](https://github.com/segmentio/ts-mysql-plugin) ⭐ 319 | 🐛 17 | 🌐 TypeScript | 📅 2026-06-25 - A TypeScript Language Service Plugin that gives superpowers to SQL tagged template literals.
 * [ts-sql-plugin](https://github.com/xialvjun/ts-sql-plugin) ⭐ 196 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-06 -  TypeScript Language Service Plugin for SQL with a tagged template strings SQL builder
 * [tslint-language-service](https://github.com/angelozerr/tslint-language-service/) ⭐ 189 | 🐛 25 | 🌐 TypeScript | 📅 2019-11-06 - TypeScript 2.2.1 plugin for tslint
@@ -87,7 +87,7 @@ Read [how to write your own langauge service plugin here](https://github.com/Mic
 ## Tools
 
 * [ts-morph](https://github.com/dsherret/ts-morph) ⭐ 6,222 | 🐛 303 | 🌐 TypeScript | 📅 2026-09-29 -  TypeScript Compiler API wrapper for static analysis and programmatic code changes
-* [fallow](https://github.com/fallow-rs/fallow) ⭐ 5,294 | 🐛 22 | 🌐 Rust | 📅 2026-11-02 - Finds dead code, duplication, circular dependencies, and complexity hotspots in TypeScript codebases
+* [fallow](https://github.com/fallow-rs/fallow) ⭐ 5,295 | 🐛 19 | 🌐 Rust | 📅 2026-11-03 - Finds dead code, duplication, circular dependencies, and complexity hotspots in TypeScript codebases
 * [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) ⭐ 3,267 | 🐛 188 | 🌐 TypeScript | 📅 2026-07-14 - Generate json-schema from your TypeScript sources
 * [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) ⭐ 1,718 | 🐛 130 | 🌐 TypeScript | 📅 2026-11-01 - Generate JSON schema from your TypeScript sources
 * [ttypescript](https://github.com/cevek/ttypescript) ⭐ 1,534 | 🐛 23 | 🌐 TypeScript | 📅 2023-06-23 - Over TypeScript tool to use custom transformers in the tsconfig.json
@@ -97,4 +97,4 @@ Read [how to write your own langauge service plugin here](https://github.com/Mic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

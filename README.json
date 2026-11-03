@@ -15,11 +15,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T18:48:13Z",
-            "open_issues": 5248,
+            "last_commit": "2026-11-03T16:15:25Z",
+            "open_issues": 5250,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111720,
+            "stars": 111727,
             "topics": [
               "javascript",
               "language",
@@ -45,7 +45,7 @@
             "open_issues": 149,
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21581,
+            "stars": 21583,
             "topics": [
               "free",
               "open-source",
@@ -106,7 +106,7 @@
             "open_issues": 181,
             "owner": "microsoft",
             "repo": "TypeScript-Handbook",
-            "stars": 4849,
+            "stars": 4848,
             "topics": [
               "documentation",
               "learn",
@@ -826,7 +826,7 @@
             "id": 87432483,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T13:45:06Z",
+            "last_commit": "2026-11-02T19:37:08Z",
             "open_issues": 30,
             "owner": "Quramy",
             "repo": "ts-graphql-plugin",
@@ -981,11 +981,11 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-02T18:52:02Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-03T16:30:32Z",
+            "open_issues": 19,
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 5294,
+            "stars": 5295,
             "topics": [
               "architecture",
               "circular-dependencies",
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T18:52:04.171Z",
+    "last_updated": "2026-11-03T16:37:52.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
