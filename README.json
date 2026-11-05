@@ -15,11 +15,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T16:35:55Z",
-            "open_issues": 5252,
+            "last_commit": "2026-11-05T16:47:33Z",
+            "open_issues": 5247,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111728,
+            "stars": 111756,
             "topics": [
               "javascript",
               "language",
@@ -45,7 +45,7 @@
             "open_issues": 149,
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21579,
+            "stars": 21580,
             "topics": [
               "free",
               "open-source",
@@ -826,7 +826,7 @@
             "id": 87432483,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T19:37:08Z",
+            "last_commit": "2026-11-04T21:59:55Z",
             "open_issues": 30,
             "owner": "Quramy",
             "repo": "ts-graphql-plugin",
@@ -958,7 +958,7 @@
             "open_issues": 303,
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6221,
+            "stars": 6222,
             "topics": [
               "ast",
               "code-generation",
@@ -981,11 +981,11 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-04T15:39:02Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-05T16:52:13Z",
+            "open_issues": 41,
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 5297,
+            "stars": 5301,
             "topics": [
               "architecture",
               "circular-dependencies",
@@ -1043,10 +1043,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-01T01:13:16Z",
-            "open_issues": 130,
+            "open_issues": 132,
             "owner": "vega",
             "repo": "ts-json-schema-generator",
-            "stars": 1718,
+            "stars": 1719,
             "topics": [
               "compiler",
               "generator",
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T16:37:08.843Z",
+    "last_updated": "2026-11-05T16:52:39.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
