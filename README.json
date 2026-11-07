@@ -15,11 +15,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T16:11:42Z",
-            "open_issues": 5252,
+            "last_commit": "2026-11-07T07:15:26Z",
+            "open_issues": 5265,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111788,
+            "stars": 111859,
             "topics": [
               "javascript",
               "language",
@@ -45,7 +45,7 @@
             "open_issues": 149,
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21579,
+            "stars": 21578,
             "topics": [
               "free",
               "open-source",
@@ -72,7 +72,7 @@
             "open_issues": 3,
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10367,
+            "stars": 10366,
             "topics": [
               "book",
               "free",
@@ -981,11 +981,11 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-06T16:11:05Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-07T13:14:15Z",
+            "open_issues": 25,
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 5310,
+            "stars": 5312,
             "topics": [
               "architecture",
               "circular-dependencies",
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T16:20:09.763Z",
+    "last_updated": "2026-11-07T15:12:54.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
