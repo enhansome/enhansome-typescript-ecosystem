@@ -15,11 +15,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T12:38:30Z",
-            "open_issues": 5267,
+            "last_commit": "2026-11-09T19:00:23Z",
+            "open_issues": 5274,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111863,
+            "stars": 111864,
             "topics": [
               "javascript",
               "language",
@@ -72,7 +72,7 @@
             "open_issues": 3,
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10365,
+            "stars": 10366,
             "topics": [
               "book",
               "free",
@@ -955,10 +955,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-29T02:59:35Z",
-            "open_issues": 303,
+            "open_issues": 305,
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6223,
+            "stars": 6224,
             "topics": [
               "ast",
               "code-generation",
@@ -977,15 +977,15 @@
           "repo_info": {
             "archived": false,
             "description": "Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.",
-            "homepage": "https://docs.fallow.tools",
+            "homepage": "https://fallow.tools/docs/",
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-08T11:05:32Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-09T19:07:36Z",
+            "open_issues": 21,
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 5319,
+            "stars": 5323,
             "topics": [
               "architecture",
               "circular-dependencies",
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T15:36:37.688Z",
+    "last_updated": "2026-11-09T19:12:52.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
