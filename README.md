@@ -8,11 +8,11 @@
 
 ## Handbooks
 
-* [TypeScript wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 111,864 | 🐛 5,274 | 🌐 Go | 📅 2026-11-09 - The official wiki for TypeScript lang
-* [typescript-book](https://github.com/basarat/typescript-book/) ⭐ 21,580 | 🐛 149 | 🌐 TypeScript | 📅 2024-06-29 - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖
-* [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) ⭐ 10,366 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-06 - A free and open-source TypeScript book covering fundamentals through advanced concepts.
+* [TypeScript wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 111,871 | 🐛 5,270 | 🌐 Go | 📅 2026-11-10 - The official wiki for TypeScript lang
+* [typescript-book](https://github.com/basarat/typescript-book/) ⭐ 21,581 | 🐛 149 | 🌐 TypeScript | 📅 2024-06-29 - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖
+* [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) ⭐ 10,367 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-06 - A free and open-source TypeScript book covering fundamentals through advanced concepts.
 * [TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) ⚠️ Archived - The TypeScript Handbook is a comprehensive guide to the TypeScript language
-* [ts-transformer-handbook](https://github.com/madou/ts-transformer-handbook) ⭐ 1,020 | 🐛 16 | 🌐 TypeScript | 📅 2025-02-14 - 📘 A handbook on how to create transformers for Typescript with real code examples
+* [ts-transformer-handbook](https://github.com/madou/ts-transformer-handbook) ⭐ 1,021 | 🐛 16 | 🌐 TypeScript | 📅 2025-02-14 - 📘 A handbook on how to create transformers for Typescript with real code examples
 
 ## Transformers
 
@@ -24,7 +24,7 @@ and more.
 
 ### General transformers
 
-* [typescript-is](https://github.com/woutervh-/typescript-is#readme) ⭐ 956 | 🐛 47 | 🌐 TypeScript | 📅 2023-07-17 - generate run-time type-checks
+* [typescript-is](https://github.com/woutervh-/typescript-is#readme) ⭐ 957 | 🐛 47 | 🌐 TypeScript | 📅 2023-07-17 - generate run-time type-checks
 * [ts-nameof](https://github.com/dsherret/ts-nameof) ⚠️ Archived - nameof in TypeScript
 * [@ts-tools/robotrix](https://github.com/AviVahl/ts-tools/tree/master/packages/robotrix) ⭐ 170 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-31 - Useful TypeScript transpilation transformers.
 * [ts-transform-graphql-tag](https://github.com/firede/ts-transform-graphql-tag) ⭐ 155 | 🐛 17 | 🌐 TypeScript | 📅 2023-01-03 - Compiles GraphQL tagged template strings using graphql-tag in TypeScript files
@@ -38,12 +38,12 @@ and more.
 
 ### Module resolution
 
-* [ts-import-plugin](https://github.com/Brooooooklyn/ts-import-plugin) ⭐ 603 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-07 - Modular import plugin for TypeScript
+* [ts-import-plugin](https://github.com/Brooooooklyn/ts-import-plugin) ⭐ 604 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-07 - Modular import plugin for TypeScript
 * [ts-transformer-imports](https://www.npmjs.com/package/ts-transformer-imports) - A TypeScript transformer which enables compilation of absolute imports (using baseUrl or paths) so they can be required as modules from Javascript or TypeScript, without additional configuration or path mapping
 
 ### React
 
-* [typescript-plugin-styled-components](https://github.com/Igorbek/typescript-plugin-styled-components) ⭐ 417 | 🐛 33 | 🌐 TypeScript | 📅 2023-06-06 - TypeScript transformer for improving the debugging experience of styled-components
+* [typescript-plugin-styled-components](https://github.com/Igorbek/typescript-plugin-styled-components) ⭐ 418 | 🐛 33 | 🌐 TypeScript | 📅 2023-06-06 - TypeScript transformer for improving the debugging experience of styled-components
 * [emotion-ts-plugin](https://github.com/LeetCode-OpenSource/emotion-ts-plugin) ⭐ 57 | 🐛 22 | 🌐 TypeScript | 📅 2023-04-07 - TypeScript transformer for improving the debugging experience and abilities of emotion
 * [ts-transform-react-constant-elements](https://github.com/dropbox/ts-transform-react-constant-elements) ⭐ 44 | 🐛 11 | 🌐 TypeScript | 📅 2023-08-29 - A TypeScript AST Transformer that can speed up reconciliation and reduce garbage collection pressure by hoisting React elements to the highest possible scope
 * [react-hot-ts](https://github.com/elsassph/react-hot-ts) ⭐ 27 | 🐛 18 | 🌐 TypeScript | 📅 2023-01-07 - A lightweight, TypeScript-native, Babel-free, plugin-free, implementation of react-hot-loader
@@ -75,11 +75,11 @@ and more.
 ## Language service plugins
 
 Language service plugins enable rich developer experience warnings, errors, and even intellisense in your IDE.
-Read [how to write your own langauge service plugin here](https://github.com/Microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin) ⭐ 111,864 | 🐛 5,274 | 🌐 Go | 📅 2026-11-09.
+Read [how to write your own langauge service plugin here](https://github.com/Microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin) ⭐ 111,871 | 🐛 5,270 | 🌐 Go | 📅 2026-11-10.
 
 * [typescript-styled-plugin](https://github.com/Microsoft/typescript-styled-plugin) ⚠️ Archived - TypeScript server plugin that adds intellisense to styled component css strings
-* [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) ⭐ 755 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-06 - TypeScript Language Service Plugin for GraphQL developers
-* [ts-mysql-plugin](https://github.com/segmentio/ts-mysql-plugin) ⭐ 319 | 🐛 17 | 🌐 TypeScript | 📅 2026-06-25 - A TypeScript Language Service Plugin that gives superpowers to SQL tagged template literals.
+* [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) ⭐ 756 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-09 - TypeScript Language Service Plugin for GraphQL developers
+* [ts-mysql-plugin](https://github.com/segmentio/ts-mysql-plugin) ⭐ 320 | 🐛 17 | 🌐 TypeScript | 📅 2026-06-25 - A TypeScript Language Service Plugin that gives superpowers to SQL tagged template literals.
 * [ts-sql-plugin](https://github.com/xialvjun/ts-sql-plugin) ⭐ 196 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-06 -  TypeScript Language Service Plugin for SQL with a tagged template strings SQL builder
 * [tslint-language-service](https://github.com/angelozerr/tslint-language-service/) ⭐ 189 | 🐛 25 | 🌐 TypeScript | 📅 2019-11-06 - TypeScript 2.2.1 plugin for tslint
 * [ts-migrating](https://github.com/ycmjason/ts-migrating/) ⭐ 71 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-30 - an TypeScript LSP plugin that lets you migrate TSconfig
@@ -87,14 +87,14 @@ Read [how to write your own langauge service plugin here](https://github.com/Mic
 ## Tools
 
 * [ts-morph](https://github.com/dsherret/ts-morph) ⭐ 6,224 | 🐛 305 | 🌐 TypeScript | 📅 2026-09-29 -  TypeScript Compiler API wrapper for static analysis and programmatic code changes
-* [fallow](https://github.com/fallow-rs/fallow) ⭐ 5,323 | 🐛 21 | 🌐 Rust | 📅 2026-11-09 - Finds dead code, duplication, circular dependencies, and complexity hotspots in TypeScript codebases
-* [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) ⭐ 3,267 | 🐛 188 | 🌐 TypeScript | 📅 2026-07-14 - Generate json-schema from your TypeScript sources
-* [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) ⭐ 1,719 | 🐛 130 | 🌐 TypeScript | 📅 2026-11-01 - Generate JSON schema from your TypeScript sources
+* [fallow](https://github.com/fallow-rs/fallow) ⭐ 5,337 | 🐛 20 | 🌐 Rust | 📅 2026-11-10 - Finds dead code, duplication, circular dependencies, and complexity hotspots in TypeScript codebases
+* [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) ⭐ 3,268 | 🐛 188 | 🌐 TypeScript | 📅 2026-07-14 - Generate json-schema from your TypeScript sources
+* [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) ⭐ 1,720 | 🐛 130 | 🌐 TypeScript | 📅 2026-11-01 - Generate JSON schema from your TypeScript sources
 * [ttypescript](https://github.com/cevek/ttypescript) ⭐ 1,534 | 🐛 23 | 🌐 TypeScript | 📅 2023-06-23 - Over TypeScript tool to use custom transformers in the tsconfig.json
-* [ts-query](https://github.com/phenomnomnominal/tsquery) ⭐ 1,057 | 🐛 13 | 🌐 TypeScript | 📅 2026-04-06 - TypeScript AST query library
-* [ts-creator](https://github.com/HearTao/ts-creator) ⭐ 392 | 🐛 22 | 🌐 TypeScript | 📅 2023-03-06 - A code generator to generate TypeScript code generator from TypeScript code
+* [ts-query](https://github.com/phenomnomnominal/tsquery) ⭐ 1,058 | 🐛 13 | 🌐 TypeScript | 📅 2026-04-06 - TypeScript AST query library
+* [ts-creator](https://github.com/HearTao/ts-creator) ⭐ 393 | 🐛 22 | 🌐 TypeScript | 📅 2023-03-06 - A code generator to generate TypeScript code generator from TypeScript code
 * [jsontosdk](https://github.com/SolvoHQ/jsontosdk) ⭐ 0 | 🐛 0 | 🌐 Astro | 📅 2026-05-14 - Paste a JSON sample and generate typed TypeScript interfaces, a Zod schema, and a fetch helper
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
