@@ -15,11 +15,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T17:31:13Z",
-            "open_issues": 5289,
+            "last_commit": "2026-11-19T17:37:20Z",
+            "open_issues": 5260,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111843,
+            "stars": 111864,
             "topics": [
               "javascript",
               "language",
@@ -45,7 +45,7 @@
             "open_issues": 149,
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21580,
+            "stars": 21581,
             "topics": [
               "free",
               "open-source",
@@ -72,7 +72,7 @@
             "open_issues": 1,
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10370,
+            "stars": 10371,
             "topics": [
               "book",
               "free",
@@ -213,7 +213,7 @@
                 "id": 134467449,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T04:58:22Z",
+                "last_commit": "2026-11-19T12:07:26Z",
                 "open_issues": 1,
                 "owner": "AviVahl",
                 "repo": "ts-tools",
@@ -958,7 +958,7 @@
             "open_issues": 304,
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6230,
+            "stars": 6231,
             "topics": [
               "ast",
               "code-generation",
@@ -981,11 +981,11 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-18T17:23:02Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-19T16:54:04Z",
+            "open_issues": 17,
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 5383,
+            "stars": 5387,
             "topics": [
               "architecture",
               "circular-dependencies",
@@ -1022,7 +1022,7 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-07-14T15:28:20Z",
-            "open_issues": 190,
+            "open_issues": 191,
             "owner": "YousefED",
             "repo": "typescript-json-schema",
             "stars": 3269,
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T17:37:07.396Z",
+    "last_updated": "2026-11-19T17:42:56.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
