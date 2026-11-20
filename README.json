@@ -15,11 +15,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T17:37:20Z",
-            "open_issues": 5260,
+            "last_commit": "2026-11-20T17:14:20Z",
+            "open_issues": 5269,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111864,
+            "stars": 111866,
             "topics": [
               "javascript",
               "language",
@@ -72,7 +72,7 @@
             "open_issues": 1,
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10371,
+            "stars": 10370,
             "topics": [
               "book",
               "free",
@@ -106,7 +106,7 @@
             "open_issues": 181,
             "owner": "microsoft",
             "repo": "TypeScript-Handbook",
-            "stars": 4846,
+            "stars": 4845,
             "topics": [
               "documentation",
               "learn",
@@ -132,7 +132,7 @@
             "open_issues": 16,
             "owner": "itsdouges",
             "repo": "typescript-transformer-handbook",
-            "stars": 1022,
+            "stars": 1021,
             "topics": [
               "handbook",
               "transformer",
@@ -166,7 +166,7 @@
                 "open_issues": 47,
                 "owner": "woutervh-",
                 "repo": "typescript-is",
-                "stars": 957,
+                "stars": 956,
                 "topics": [
                   "runtime",
                   "transformer",
@@ -192,7 +192,7 @@
                 "open_issues": 33,
                 "owner": "dsherret",
                 "repo": "ts-nameof",
-                "stars": 501,
+                "stars": 500,
                 "topics": [
                   "babel-plugin",
                   "custom-transformer",
@@ -446,7 +446,7 @@
                 "open_issues": 25,
                 "owner": "ts-plugin",
                 "repo": "ts-import-plugin",
-                "stars": 604,
+                "stars": 602,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:00.865Z"
@@ -474,7 +474,7 @@
                 "open_issues": 33,
                 "owner": "Igorbek",
                 "repo": "typescript-plugin-styled-components",
-                "stars": 418,
+                "stars": 417,
                 "topics": [
                   "styled-components",
                   "transformer",
@@ -809,7 +809,7 @@
             "open_issues": 0,
             "owner": "microsoft",
             "repo": "typescript-styled-plugin",
-            "stars": 831,
+            "stars": 830,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.865Z"
@@ -826,11 +826,11 @@
             "id": 87432483,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T01:59:34Z",
+            "last_commit": "2026-11-20T03:31:38Z",
             "open_issues": 31,
             "owner": "Quramy",
             "repo": "ts-graphql-plugin",
-            "stars": 758,
+            "stars": 757,
             "topics": [
               "graphql",
               "language-server",
@@ -856,7 +856,7 @@
             "open_issues": 17,
             "owner": "segmentio",
             "repo": "ts-mysql-plugin",
-            "stars": 320,
+            "stars": 319,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.865Z"
@@ -958,7 +958,7 @@
             "open_issues": 304,
             "owner": "dsherret",
             "repo": "ts-morph",
-            "stars": 6231,
+            "stars": 6232,
             "topics": [
               "ast",
               "code-generation",
@@ -981,11 +981,11 @@
             "id": 1184090452,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-19T16:54:04Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-20T17:20:00Z",
+            "open_issues": 19,
             "owner": "fallow-rs",
             "repo": "fallow",
-            "stars": 5387,
+            "stars": 5391,
             "topics": [
               "architecture",
               "circular-dependencies",
@@ -1025,7 +1025,7 @@
             "open_issues": 191,
             "owner": "YousefED",
             "repo": "typescript-json-schema",
-            "stars": 3269,
+            "stars": 3268,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.865Z"
@@ -1042,7 +1042,7 @@
             "id": 93129134,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T00:26:48Z",
+            "last_commit": "2026-11-20T01:44:41Z",
             "open_issues": 132,
             "owner": "vega",
             "repo": "ts-json-schema-generator",
@@ -1072,7 +1072,7 @@
             "open_issues": 23,
             "owner": "cevek",
             "repo": "ttypescript",
-            "stars": 1534,
+            "stars": 1533,
             "topics": [
               "custom-transformer",
               "transformer-typescript",
@@ -1098,7 +1098,7 @@
             "open_issues": 14,
             "owner": "phenomnomnominal",
             "repo": "tsquery",
-            "stars": 1059,
+            "stars": 1058,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.865Z"
@@ -1119,7 +1119,7 @@
             "open_issues": 22,
             "owner": "HearTao",
             "repo": "ts-creator",
-            "stars": 393,
+            "stars": 392,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.865Z"
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T17:42:56.049Z",
+    "last_updated": "2026-11-20T17:20:32.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc",
